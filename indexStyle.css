@@ -1,6 +1,8 @@
 
 body {
-    background: url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8b6cc628081837.5783bd8a32090.jpg)
+    background: url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/8b6cc628081837.5783bd8a32090.jpg);
+    margin-left: 0%;
+    margin-top: 0%;
 }
 h1 {
     color: rgb(202, 39, 202);
